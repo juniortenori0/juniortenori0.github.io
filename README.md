@@ -1,13 +1,3 @@
 
-<h1>Site De Um Jogo RPG</h1>
-<br>
-<br>
-<h2>Esse foi um site que comecei fazer nas minhas aulas de HTML - CSS</h2>
-<br>
-<br>
-<h2>Tecnologias Utilizadas</h2>
-<br>
-<p> - HTML</p>
-<p> - CSS</p>
-<p> - RESPONSIVIDADE</p>
-
+# juniortenori0.github.io
+>>>>>>> d811bc3a0389202d77a24a78183bbf3320962b72
