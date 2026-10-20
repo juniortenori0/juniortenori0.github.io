@@ -6,7 +6,7 @@
 <br>
 <h2>Tecnologias Utilizadas</h2>
 <br>
-<p>HTML</p>
-<p>CSS</p>
-<p>RESPONSIVIDADE</p>
+<p> - HTML</p>
+<p> - CSS</p>
+<p> - RESPONSIVIDADE</p>
 <img src="https://github.com/juniortenori0/Meu-primeiro-Projeto/blob/main/1000%20em%207%20Dias/img/mockup.png?raw=true"/>
