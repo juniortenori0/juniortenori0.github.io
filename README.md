@@ -1,7 +1,7 @@
 <h1> Site Para Um Jogo De RPG </h1>
 <br>
 <br>
-<h2> Meu primeiro site que fiz, em minha aulas de programação</h2>
+<h2> Meu primeiro projeto, Fiz em minhas aulas de programação</h2>
 <br>
 <br>
 <h2> Tecnologias Utilizadas :</h2>
