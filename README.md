@@ -1,7 +1,7 @@
 <h1>Site De Um Jogo De MMORP</h1>
 <br>
 <br>
-<h2>Esse foi meu primeiro projeto, que fiz nas minhas aulas de Programaçãp</h2>
+<h2>Esse foi meu primeiro projeto que fiz nas minhas aulas de Programaçãp</h2>
 <br>
 <br>
 <h2> Tecnologias Utilizadas :</h2>
